@@ -7,11 +7,12 @@
 ### SimpleNet
 <div style="text-align: center;">
 <img src="symbols.png" style="height:50vh;">
-
+<br>
 <a  href="https://arxiv.org/abs/1701.08380">
 https://arxiv.org/abs/1701.08380
 </a>
 </div>
+<br>
 
 - The [SimpleNet](math-recognition.ipynb) model is a proof of concept development using [HASY](https://arxiv.org/abs/1701.08380) dataset (similar to MNIST)
 - SimpleNet's performance reaches a train test split of **88%** and **85%** with `fold-1` data 
